@@ -1,0 +1,173 @@
+{
+  "pickups": [
+    {
+      "id": "c0a9",
+      "address": "B 41 Norht X TOwnship",
+      "date": "2025 - 07 - 09, 1:02 AM",
+      "notes": "Please be on time",
+      "status": "Accepted"
+    },
+    {
+      "id": "8da8",
+      "address": "erfc",
+      "date": "2025 - 07 -10, 12 PM",
+      "notes": "Be handle with care",
+      "status": "Completed",
+      "items": ""
+    },
+    {
+      "id": "9961",
+      "address": "sdfvvb",
+      "date": "dsbvb",
+      "notes": "b ef",
+      "status": "Completed",
+      "items": ""
+    },
+    {
+      "id": "9258",
+      "address": "fgbnth",
+      "date": "wrg",
+      "notes": "wefwf",
+      "status": "In-Process"
+    },
+    {
+      "id": "0d37",
+      "address": "tg4eyt",
+      "date": "34t",
+      "notes": "tg",
+      "status": "Accepted"
+    },
+    {
+      "id": "b1ee",
+      "address": "B 41 North X  Township",
+      "date": "2025 - 09 -11, 11 PM",
+      "notes": "Please be gentle",
+      "status": "In-Process"
+    },
+    {
+      "id": "5b58",
+      "address": "H3 21 townhip",
+      "date": "checking, 11 Am",
+      "notes": "Please be on time",
+      "status": "In-Process"
+    },
+    {
+      "id": "4c58",
+      "address": "H2 - 103 Township Nagarpur Kota",
+      "date": "2025 - 11 - 12",
+      "notes": "Please be gentle with the package!.",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "Mattress",
+          "quantity": 1,
+          "price": 500
+        }
+      ]
+    },
+    {
+      "id": "6276",
+      "address": "aaaaaaaaaaaaaaaaa",
+      "date": "aaaaaaaaaaaaaaaa",
+      "notes": "aaaaaaaaaaaaa",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "Mattress",
+          "quantity": 2,
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "id": "8e6f",
+      "address": "wwwwwwwww",
+      "date": "wwwwwwwwww",
+      "notes": "wwwwwwwwww",
+      "status": "Accepted"
+    },
+    {
+      "id": "836c",
+      "address": "asfg",
+      "phone": "456465768",
+      "date": "12132456",
+      "notes": "dfgdsge",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "sd f",
+          "quantity": null,
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "8ba8",
+      "address": "h3 - 90 Township",
+      "phone": "8209264080",
+      "date": "2025 - 03 - 01, 11 PM",
+      "notes": "Please be gentle.",
+      "status": "In-Process"
+    },
+    {
+      "id": "d411",
+      "address": "B-41 North X Township Kota Rajasthan",
+      "phone": "8209264080",
+      "date": "2025 - 07 -11, 9 Am",
+      "notes": "Please me gentle with the package.",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "Mattress",
+          "quantity": 3,
+          "price": 3000
+        }
+      ]
+    },
+    {
+      "id": "4a19",
+      "address": "AB - 21 Northx Township Jaipur",
+      "phone": "1234567890",
+      "date": "2025 - 07 - 11, 9AM",
+      "notes": "please handle with care.",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "gvhf",
+          "quantity": 1,
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": "7706",
+      "address": "BH - 21 North Jaipur",
+      "phone": "1234567890",
+      "date": "2025 - 07 - 11, 9 AM",
+      "notes": "Please be careful with the packages.",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "Bed",
+          "quantity": 1,
+          "price": 500
+        }
+      ]
+    },
+    {
+      "id": "aef5",
+      "address": "iwf0werfjierfc",
+      "phone": "353546575",
+      "date": "fb rhrtvh",
+      "notes": "",
+      "status": "Completed",
+      "items": [
+        {
+          "name": "eferfe",
+          "quantity": null,
+          "price": null
+        }
+      ]
+    }
+  ]
+}

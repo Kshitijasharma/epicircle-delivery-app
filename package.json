@@ -1,0 +1,23 @@
+{
+  "name": "epicircle-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start-json-server": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "typescript": "~5.8.3",
+    "@types/react": "~19.0.10"
+  },
+  "dependencies": {
+    "expo": "^53.0.19",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-font": "~13.3.2",
+    "@react-native-async-storage/async-storage": "2.1.2"
+  }
+}
