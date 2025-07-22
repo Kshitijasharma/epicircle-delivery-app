@@ -1,6 +1,6 @@
-# 🚚 EpiCircle Delivery Platform
+# 🚚 Delivery Platform
 
-The **EpiCircle Delivery Platform** is a full-stack logistics solution designed to manage and streamline customer pickup requests and delivery partner operations. This monorepo includes:
+The **Delivery Platform** is a full-stack logistics solution designed to manage and streamline customer pickup requests and delivery partner operations. This monorepo includes:
 
 - 📦 **Customer App** — Customers schedule and manage pickups.
 - 🚚 **Partner App** — Delivery partners view assigned pickups and mark them as completed.
