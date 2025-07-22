@@ -1,5 +1,3 @@
-
-```markdown
 # 🚚 EpiCircle Delivery Platform
 
 The **EpiCircle Delivery Platform** is a full-stack logistics solution designed to manage and streamline customer pickup requests and delivery partner operations. This monorepo includes:
@@ -212,7 +210,4 @@ This project is open-source under the MIT License.
 
 ---
 
-## 📬 Contact
-
-**Maintainer:** [Kshitij Sharma](https://github.com/Kshitijasharma)
-Feel free to open issues or submit PRs to contribute!
+Feel free to contribute!
